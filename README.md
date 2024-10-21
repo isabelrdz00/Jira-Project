@@ -1,7 +1,7 @@
 ## 🛠️ E-commerce Shopping Software App - Jira Project
 
 ### 📝 Project Overview
-- In this project, we focus on building an E-commerce shopping app where customers can search, view, and purchase items from a store using their mobile device. The project follows a Scrum framework, with iterative Sprints to incrementally deliver product features.
+- This project was focused on building an E-commerce shopping app where customers can search, view, and purchase items from a store using their mobile device. The project follows a Scrum framework, with iterative Sprints to incrementally deliver product features.
 
 ### Key project features include:
 - Shopping cart functionality
